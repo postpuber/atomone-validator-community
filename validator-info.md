@@ -7,7 +7,7 @@ In order to verify the team members of your validator, please send a 0.01 ATONE 
 |-----------------------------------------------------------------|-------------------|---|---|---|---|---|---|
 |---|---|---|---|---|---|---|---|
 | Validator Name  | Validator Website | Validator Twitter Page | Region | GitHub Handles | E-mails | Discord Handles | Tx Hash |
-|   |   |   |   |   |   |   |   |
+| StakerHouse | https://stakerhouse.com | https://x.com/stakerhouse | Georgia | postpuber | contact@stakerhouse.com | stakerhouse | 69061B8776AAAC2C7DD175EDF65B4D9D582453A6D857FDB7265E392F9559B2C4 |
 |   |   |   |   |   |   |   |   |
 |   |   |   |   |   |   |   |   |
 |   |   |   |   |   |   |   |   |
